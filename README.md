@@ -1,4 +1,4 @@
-# my-goal-vue
+# My Goal
 
 A minimal Vue.js app developed for self-study goal tracking.
 
